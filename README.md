@@ -13,7 +13,7 @@
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 - 🤖&nbsp;Robotics
-  ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-333333?style=for-the-badge)
   ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Isaac Gym](https://img.shields.io/badge/Isaac%20Gym-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
