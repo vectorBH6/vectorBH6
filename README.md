@@ -11,8 +11,6 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDD54)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-  ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 - 🔌&nbsp;Embedded & Hardware
   
@@ -21,12 +19,18 @@
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 - 🤖&nbsp;Robotics
-  
-  ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-333333?style=for-the-badge)
+
+  ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+  ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
   ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Isaac Gym](https://img.shields.io/badge/Isaac%20Gym-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=deepmind&logoColor=white)
+
+- 🧠&nbsp;Algorithms
+
+  ![RL Locomotion](https://img.shields.io/badge/-RL%20Locomotion-333333?style=for-the-badge)
+  ![VLA](https://img.shields.io/badge/-VLA%20(Vision-Language-Action)-333333?style=for-the-badge)
 
 - ⚙️&nbsp;Mechanical
   
