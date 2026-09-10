@@ -30,7 +30,7 @@
 - 🧠&nbsp;Algorithms
 
   ![RL Locomotion](https://img.shields.io/badge/-RL%20Locomotion-333333?style=for-the-badge)
-  ![VLA](https://img.shields.io/badge/-VLA%20(Vision-Language-Action)-333333?style=for-the-badge)
+  ![VLA](https://img.shields.io/badge/-VLA%20%28Vision-Language-Action%29-333333?style=for-the-badge)
 
 - ⚙️&nbsp;Mechanical
   
